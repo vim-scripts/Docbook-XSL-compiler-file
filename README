@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1004
+
+Most people compile docbook documents with tools like jade or openjade. Other tools, like xsltproc, are possible.
+
+Basically, this script is a bound of commands in order to compile docbook documents correctly using xsltproc. It just set a few vim parameters like makeprg, errorformat and stringcomments.
